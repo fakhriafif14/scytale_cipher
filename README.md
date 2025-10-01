@@ -199,5 +199,3 @@ Decrypted : HELLOSCYTALE
 
 ```
 
-👉 Mau aku gabungkan `README.md` ini sama `scytale_cipher.py` ke dalam **1 file ZIP** biar langsung siap upload ke GitHub?
-```
