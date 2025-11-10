@@ -3,7 +3,8 @@
 # 🔐 Scytale Cipher (Python)
 
 Proyek ini adalah implementasi sederhana algoritma **Scytale Cipher** menggunakan bahasa Python.  
-Scytale Cipher merupakan salah satu teknik kriptografi klasik yang digunakan pada zaman Yunani kuno untuk menyembunyikan pesan rahasia dengan bantuan sebuah batang silinder.
+Scytale Cipher merupakan salah satu teknik kriptografi klasik yang digunakan pada zaman Yunani kuno untuk
+menyembunyikan pesan rahasia dengan bantuan sebuah batang silinder.
 
 ---
 
